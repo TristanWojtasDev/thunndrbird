@@ -1,4 +1,3 @@
-Project Title
 thunndrbird
 
 Getting Started
@@ -16,7 +15,6 @@ do this for the rest of the dependencies
 ...
 
 Deployment
-
 
 Built With
 React, Solidity, web3, vscode
